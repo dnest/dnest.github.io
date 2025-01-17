@@ -1,11 +1,11 @@
 ---
-title: "Welcome to StarDust!"
 date: 2025-01-17 17:07:00 -0400
-categories: ray update
 layout: post
+title: "Welcome to StarDust!"
 author: ray
-image: assets/images/home.jpg
-tags: [sticky]
+categories: [ ray, blog ]
+image: assets/images/6.jpg
+tags: featured
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

@@ -7,6 +7,7 @@ url: 'dnest.github.io'
 baseurl: ''
 disqus: 'blog'
 email: 'dnest@nate.com'
+owner: 'dnest'
 
 include: ["_pages"]
 permalink: /:title/
