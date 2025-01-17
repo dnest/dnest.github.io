@@ -1,9 +1,9 @@
 ---
-date: 2025-01-17 17:07:00 -0400
+#date: 2025-01-17 17:07:00 -0400
 layout: post
 title: "Welcome to StarDust!"
 author: ray
-categories: [ ray, blog ]
+categories: [ StarDust, blog ]
 image: assets/images/6.jpg
 tags: featured
 ---
