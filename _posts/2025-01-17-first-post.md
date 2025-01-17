@@ -1,7 +1,7 @@
 ---
 title: "Welcome to StarDust!"
 date: 2025-01-17 17:07:00 -0400
-categories: stardust update
+categories: ray update
 layout: post
 author: ray
 image: assets/images/home.jpg
