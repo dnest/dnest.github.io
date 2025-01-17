@@ -1,13 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Star0Dust'
+description: 'Blog of Star0Dust.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: 'dnest.github.io'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'blog'
+email: 'dnest@nate.com'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,19 +19,19 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    ray:
+      name:           Ray
+      site:           https://dnest.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Ray!"
+      email:          dnest@nate.com
+      twitter:        https://twitter.com/dnest0
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    samgil2:
+      name:           Samgil2
+      site:           https://dnest.github.io
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Cat!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
@@ -44,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: ray
       avatar: /assets/images/avatar1.jpg
       
   # all pages
